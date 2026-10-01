@@ -45,4 +45,5 @@ On the last page:
 🎵 If the music is silent, tap once anywhere on the page. Browsers like to wait for a little tap before playing sound.
 made with love, rice, and a tiny bit of snow ❄️💗
 
-now go roll something delicious! 🍣🐱
+now go roll something delicious! rolling-on.vercel.app
+ 🍣🐱
